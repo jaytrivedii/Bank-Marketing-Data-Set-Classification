@@ -1,7 +1,7 @@
 # Bank-Marketing-Data-Set-Classification
 Bank Marketing data classification
 
-#Model Used and its accuracy
+#Model used and its accuracy
 
 C5.0 with accuracy of 80%
 
